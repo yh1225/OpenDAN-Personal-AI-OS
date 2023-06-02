@@ -12,7 +12,7 @@ The goal of OpenDAN (Open and Do Anything Now with AI) is to create a Personal A
 This project is still in its very early stages, and there may be significant changes in the future.
 
 
-## Intro video - What is Opendan?
+## Intro video - What is OpenDAN?
 Click the image below for a demo:
 
 [![Intro Video](http://img.youtube.com/vi/OH-gvomIQIQ/0.jpg)](https://www.youtube.com/watch?v=OH-gvomIQIQ "Intro Video")
