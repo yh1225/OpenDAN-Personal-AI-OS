@@ -11,12 +11,12 @@ The goal of OpenDAN (Open and Do Anything Now with AI) is to create a Personal A
 
 This project is still in its very early stages, and there may be significant changes in the future.
 
-## Demo
+## Demo video
 Click the image below for a demo:
 
-[![Demo Video](http://img.youtube.com/vi/UsYAtyIaBDc/0.jpg)](https://youtu.be/UsYAtyIaBDc "Demo Video")
+[![Demo Video](http://img.youtube.com/vi/UsYAtyIaBDc/0.jpg)](https://youtu.be/UsYAtyIaBDc "Demo Video"){:target="_blank"}
 
-[![Intro Video](http://img.youtube.com/vi/OH-gvomIQIQ/0.jpg)](https://www.youtube.com/watch?v=OH-gvomIQIQ "Intro Video")
+[![Intro Video](http://img.youtube.com/vi/OH-gvomIQIQ/0.jpg)](https://www.youtube.com/watch?v=OH-gvomIQIQ "Intro Video"){:target="_blank"}
 ## Subscribe to updates here: https://twitter.com/openDAN_AI
 
 ## **Core Features of OpenDAN**
@@ -36,11 +36,11 @@ To achieve the goal of OpenDAN, we provide the following key features:
 - [x] Project Initialization
     - [x] Basic code for operating system image packaging script
     - [x] Opendan.ai website homepage
-- [ ] OpenDAN Prototype Version
-    - [ ] AI butler assistant driven by GPT-3.5 or GPT-4.0
-    - [ ] Integration of Stable Diffusion
-    - [ ] Integration of TTS (Text-to-Speech)
-    - [ ] Integration of Telegram Chatbot as an interaction entrance
+- [x] OpenDAN Prototype Version
+    - [x] AI butler assistant driven by GPT-3.5 or GPT-4.0
+    - [x] Integration of Stable Diffusion
+    - [x] Integration of TTS (Text-to-Speech)
+    - [x] Integration of Telegram Chatbot as an interaction entrance
 - [ ] OpenDAN 1.0
     - [ ] AI butler assistant's large language model core switched to locally running open-source model
     - [ ] Offer more AI applications through AI App Marketplace
