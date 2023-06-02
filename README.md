@@ -22,6 +22,13 @@ Click the image below for a demo:
 
 [![Demo Video](http://img.youtube.com/vi/UsYAtyIaBDc/0.jpg)](https://youtu.be/UsYAtyIaBDc "Demo Video")
 
+![SadTalker Input](demo-resource/SadTalker-input.jpeg)
+
+[SadTalker Output Video](demo-resource/SadTalker-output.mp4)
+
+![Lama Cleaner Input](demo-resource/lama-cleaner-input.jpg)
+
+![Lama Cleaner Output](demo-resource/lama-cleaner-out.jpg)
 
 ## Subscribe to updates here: https://twitter.com/openDAN_AI
 
