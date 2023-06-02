@@ -17,7 +17,7 @@ Click the image below for a demo:
 
 [![Intro Video](http://img.youtube.com/vi/OH-gvomIQIQ/0.jpg)](https://www.youtube.com/watch?v=OH-gvomIQIQ "Intro Video")
 
-## Demo video
+## Demo video - What can OpenDAN do?
 Click the image below for a demo:
 
 [![Demo Video](http://img.youtube.com/vi/UsYAtyIaBDc/0.jpg)](https://youtu.be/UsYAtyIaBDc "Demo Video")
