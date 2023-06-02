@@ -24,7 +24,7 @@ Click the image below for a demo:
 
 ![SadTalker Input](demo-resource/SadTalker-input.jpeg)
 
-[SadTalker Output Video](demo-resource/SadTalker-output.mp4)
+[SadTalker Output Video](https://raw.githubusercontent.com/yh1225/OpenDAN-Personal-AI-OS/main/demo-resource/SadTalker-output.mp4)
 
 ![Lama Cleaner Input](demo-resource/lama-cleaner-input.jpg)
 
