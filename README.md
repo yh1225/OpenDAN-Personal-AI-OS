@@ -1,4 +1,8 @@
 # OpenDAN: Personal AI OS
+[![Official Website](https://img.shields.io/badge/Official%20Website-opendan.ai-blue?style=flat&logo=world&logoColor=white)](https://opendan.ai)
+[![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)](https://github.com/fiatrete/OpenDAN-Personal-AI-OS/stargazers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/openDAN_AI?style=social)](https://twitter.com/openDAN_AI)
+
 OpenDAN is an open source Personal AI OS, which ensures that everyone has the ability to use AI safely, freely, and equally.
 
 ## **Project Introduction**
