@@ -14,11 +14,9 @@ This project is still in its very early stages, and there may be significant cha
 ## Demo
 Click the image below for a demo:
 
-[![Introduce Video](http://img.youtube.com/vi/LiN3D1QZGQw/0.jpg)](https://raw.githubusercontent.com/yh1225/OpenDAN-Personal-AI-OS/main/demo-resource/opendan-introduced.mp4) "Video Title")
-[![Demo Video](http://img.youtube.com/vi/LiN3D1QZGQw/0.jpg)]((https://raw.githubusercontent.com/yh1225/OpenDAN-Personal-AI-OS/main/demo-resource/opendan-demo.mp4) "Video Title")
+[![Demo Video](http://img.youtube.com/vi/UsYAtyIaBDc/0.jpg)](https://youtu.be/UsYAtyIaBDc "Demo Video")
 
-https://raw.githubusercontent.com/yh1225/OpenDAN-Personal-AI-OS/main/demo-resource/opendan-demo.mp4
-
+[![Intro Video](http://img.youtube.com/vi/OH-gvomIQIQ/0.jpg)](https://www.youtube.com/watch?v=OH-gvomIQIQ "Intro Video")
 ## Subscribe to updates here: https://twitter.com/openDAN_AI
 
 ## **Core Features of OpenDAN**
